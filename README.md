@@ -1,2 +1,2 @@
 # CarParts
-Cassification Computer Vision Task
+Classification Computer Vision Task
